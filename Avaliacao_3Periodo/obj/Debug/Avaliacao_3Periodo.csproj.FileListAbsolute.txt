@@ -1,0 +1,8 @@
+C:\Users\n\Desktop\Repositorios\Uniaraxa\AlgoritmoAvancado\VisualStudio\Atividades\Avaliacao_3Periodo\obj\Debug\Avaliacao_3Periodo.csproj.AssemblyReference.cache
+C:\Users\n\Desktop\Repositorios\Uniaraxa\AlgoritmoAvancado\VisualStudio\Atividades\Avaliacao_3Periodo\obj\Debug\Avaliacao_3Periodo.csproj.SuggestedBindingRedirects.cache
+C:\Users\n\Desktop\Repositorios\Uniaraxa\AlgoritmoAvancado\VisualStudio\Atividades\Avaliacao_3Periodo\obj\Debug\Avaliacao_3Periodo.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\Repositorios\Uniaraxa\AlgoritmoAvancado\VisualStudio\Atividades\Avaliacao_3Periodo\bin\Debug\Avaliacao_3Periodo.exe.config
+C:\Users\n\Desktop\Repositorios\Uniaraxa\AlgoritmoAvancado\VisualStudio\Atividades\Avaliacao_3Periodo\bin\Debug\Avaliacao_3Periodo.exe
+C:\Users\n\Desktop\Repositorios\Uniaraxa\AlgoritmoAvancado\VisualStudio\Atividades\Avaliacao_3Periodo\bin\Debug\Avaliacao_3Periodo.pdb
+C:\Users\n\Desktop\Repositorios\Uniaraxa\AlgoritmoAvancado\VisualStudio\Atividades\Avaliacao_3Periodo\obj\Debug\Avaliacao_3Periodo.exe
+C:\Users\n\Desktop\Repositorios\Uniaraxa\AlgoritmoAvancado\VisualStudio\Atividades\Avaliacao_3Periodo\obj\Debug\Avaliacao_3Periodo.pdb
